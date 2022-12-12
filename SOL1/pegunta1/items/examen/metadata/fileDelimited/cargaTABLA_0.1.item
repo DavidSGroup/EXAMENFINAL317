@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_DztV4HoHEe2FloxuJ7Q_NA" name="cargaTABLA" dataPackage="_DztV4XoHEe2FloxuJ7Q_NA" Server="Localhost 127.0.0.1" FilePath="E:/examen317david/tablaMateria.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_DztV4XoHEe2FloxuJ7Q_NA" name="default" dataManager="_DztV4HoHEe2FloxuJ7Q_NA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_DztV4noHEe2FloxuJ7Q_NA" id="_6zQpEHoGEe2FloxuJ7Q_NA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DztV43oHEe2FloxuJ7Q_NA" label="id" length="1" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DztV5HoHEe2FloxuJ7Q_NA" label="pensum" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DztV5XoHEe2FloxuJ7Q_NA" label="sigla" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DztV5noHEe2FloxuJ7Q_NA" label="descripcion" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

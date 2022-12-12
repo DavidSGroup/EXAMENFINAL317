@@ -1,0 +1,4 @@
+id,pensum,sigla,descripcion
+1,02,INF111,progra
+2,1,INF121,progra2
+3,1,mat270,progra2
